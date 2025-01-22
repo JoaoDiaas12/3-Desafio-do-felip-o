@@ -12,7 +12,9 @@
 
 <p align="center">
 
-![Warrior](projeto-IA/guerreiro.png)
+<img
+    src="./projeto IA/guerreiro.png"
+/>
 
 </p>
 
@@ -20,7 +22,9 @@
 
 <p align="center">
 
-![Code](projeto-IA/print.png)
+<img
+    src="./projeto IA/print.PNG"
+/>
 
 </p>
 
