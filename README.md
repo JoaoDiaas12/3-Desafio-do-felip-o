@@ -1,13 +1,9 @@
-
 <p align="center">
-
-<img
-    src="./projeto IA/espadas.png"
-/>
-
+    <img 
+        src="./projeto IA/espadas.png"
+        style="width: 300px; height: auto; display: block; margin: 0 auto;" 
+    />
 </p>
-
----
 
 <p align="center">
     <strong>🚀Projeto Desafio Felipão!</strong>
@@ -19,27 +15,19 @@
     This project was created as part of the conclusion of the GTF Start Logic and Programming bootcamp. Developed in JavaScript, the primary goal of the project is to apply the knowledge acquired during the course, providing an opportunity for practical learning and reinforcing fundamental concepts of logic and programming.
 </p>
 
----
+<p align="center">
+    <img 
+        src="./projeto IA/guerreiro.png"
+        style="width: 500px; height: auto; display: block; margin: 0 auto;" 
+    />
+</p>
 
 <p align="center">
-
-<img
-    src="./projeto IA/guerreiro.png"
-/>
-
+    The project was extremely immersive, especially due to the medieval game theme, which provides an engaging dynamic. The choice of the character class, weapon, name, and age adds an additional level of personalization and creativity to the process. This approach not only makes learning more interesting but also stimulates creativity, encouraging the development of practical and unique solutions for the project.
 </p>
 
 ---
 
-<p align="center">
-
-<img
-    src="./projeto IA/print.PNG"
-/>
-
-</p>
-
----
 <p align="center">
     <strong>📚Code Features:</strong>
 </p>
@@ -65,13 +53,19 @@ Instantiation (`new`):
 An object `saida` is created from the `hero` class.
 </p>
 
+<p align="center">
+
+<img
+    src="./projeto IA/print.PNG"
+/>
+
+</p>
+
 ---
 
 <p align="center">
     <strong>⚙AI Tools Used:</strong>
 </p>
-
----
 
 In the development of this project, the following AI-based tools were used:
 
@@ -80,3 +74,4 @@ In the development of this project, the following AI-based tools were used:
 
 These tools were essential for improving the project's efficiency and quality.
 
+---
